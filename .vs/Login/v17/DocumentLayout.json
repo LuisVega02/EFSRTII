@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\",
+  "WorkspaceRootPath": "C:\\Users\\AAROM\\Documents\\GitHub\\EFSRTII\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E06B990-0656-46DB-8A67-D1C0CDD927F9}|ProyectoFinal.csproj|c:\\users\\luis vega\\downloads\\proyectofinal\\proyectofinal\\frmmovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E06B990-0656-46DB-8A67-D1C0CDD927F9}|ProyectoFinal.csproj|solutionrelative:frmmovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AAROM\\Documents\\GitHub\\EFSRTII\\FrmMovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrmMovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E06B990-0656-46DB-8A67-D1C0CDD927F9}|ProyectoFinal.csproj|C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E06B990-0656-46DB-8A67-D1C0CDD927F9}|ProyectoFinal.csproj|solutionrelative:principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AAROM\\Documents\\GitHub\\EFSRTII\\frmmovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frmmovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E06B990-0656-46DB-8A67-D1C0CDD927F9}|ProyectoFinal.csproj|c:\\users\\luis vega\\downloads\\proyectofinal\\proyectofinal\\frmmovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2E06B990-0656-46DB-8A67-D1C0CDD927F9}|ProyectoFinal.csproj|solutionrelative:frmmovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AAROM\\Documents\\GitHub\\EFSRTII\\Principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E06B990-0656-46DB-8A67-D1C0CDD927F9}|ProyectoFinal.csproj|C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E06B990-0656-46DB-8A67-D1C0CDD927F9}|ProyectoFinal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AAROM\\Documents\\GitHub\\EFSRTII\\LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoginForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E06B990-0656-46DB-8A67-D1C0CDD927F9}|ProyectoFinal.csproj|C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E06B990-0656-46DB-8A67-D1C0CDD927F9}|ProyectoFinal.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AAROM\\Documents\\GitHub\\EFSRTII\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E06B990-0656-46DB-8A67-D1C0CDD927F9}|ProyectoFinal.csproj|C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2E06B990-0656-46DB-8A67-D1C0CDD927F9}|ProyectoFinal.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AAROM\\Documents\\GitHub\\EFSRTII\\FrmClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FrmClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E06B990-0656-46DB-8A67-D1C0CDD927F9}|ProyectoFinal.csproj|C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E06B990-0656-46DB-8A67-D1C0CDD927F9}|ProyectoFinal.csproj|solutionrelative:frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AAROM\\Documents\\GitHub\\EFSRTII\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E06B990-0656-46DB-8A67-D1C0CDD927F9}|ProyectoFinal.csproj|C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2E06B990-0656-46DB-8A67-D1C0CDD927F9}|ProyectoFinal.csproj|solutionrelative:frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\AAROM\\Documents\\GitHub\\EFSRTII\\frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:frmclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,15 +42,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FrmMovimientos.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\FrmMovimientos.cs",
+              "DocumentMoniker": "C:\\Users\\AAROM\\Documents\\GitHub\\EFSRTII\\FrmMovimientos.cs",
               "RelativeDocumentMoniker": "FrmMovimientos.cs",
-              "ToolTip": "C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\FrmMovimientos.cs",
+              "ToolTip": "C:\\Users\\AAROM\\Documents\\GitHub\\EFSRTII\\FrmMovimientos.cs",
               "RelativeToolTip": "FrmMovimientos.cs",
               "ViewState": "AgIAAGYBAAAAAAAAAAAiwOwBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -59,36 +67,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "FrmMovimientos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\FrmMovimientos.cs",
+              "DocumentMoniker": "C:\\Users\\AAROM\\Documents\\GitHub\\EFSRTII\\FrmMovimientos.cs",
               "RelativeDocumentMoniker": "FrmMovimientos.cs",
               "ToolTip": "C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\FrmMovimientos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FrmMovimientos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\FrmMovimientos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T06:04:41.964Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-12-11T06:04:41.964Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Principal.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\Principal.cs",
+              "DocumentMoniker": "C:\\Users\\AAROM\\Documents\\GitHub\\EFSRTII\\Principal.cs",
               "RelativeDocumentMoniker": "Principal.cs",
-              "ToolTip": "C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\Principal.cs",
+              "ToolTip": "C:\\Users\\AAROM\\Documents\\GitHub\\EFSRTII\\Principal.cs",
               "RelativeToolTip": "Principal.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T05:41:34.855Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-11T05:41:34.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "LoginForm.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\AAROM\\Documents\\GitHub\\EFSRTII\\LoginForm.cs",
               "RelativeDocumentMoniker": "LoginForm.cs",
-              "ToolTip": "C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\AAROM\\Documents\\GitHub\\EFSRTII\\LoginForm.cs",
               "RelativeToolTip": "LoginForm.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAmwCgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -97,49 +103,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "LoginForm.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\AAROM\\Documents\\GitHub\\EFSRTII\\LoginForm.cs",
               "RelativeDocumentMoniker": "LoginForm.cs",
               "ToolTip": "C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\LoginForm.cs [Dise\u00F1o]",
-              "RelativeToolTip": "LoginForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\LoginForm.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T05:22:45.42Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-12-11T05:22:45.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\AAROM\\Documents\\GitHub\\EFSRTII\\FrmClientes.cs",
+              "RelativeDocumentMoniker": "FrmClientes.cs",
+              "ToolTip": "C:\\Users\\AAROM\\Documents\\GitHub\\EFSRTII\\FrmClientes.cs",
+              "RelativeToolTip": "FrmClientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:03:25.614Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "FrmClientes.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\FrmClientes.cs",
-              "RelativeDocumentMoniker": "FrmClientes.cs",
-              "ToolTip": "C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\FrmClientes.cs",
-              "RelativeToolTip": "FrmClientes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-11T05:03:25.614Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\AAROM\\Documents\\GitHub\\EFSRTII\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\Program.cs",
+              "ToolTip": "C:\\Users\\AAROM\\Documents\\GitHub\\EFSRTII\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T22:15:08.238Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T22:15:08.238Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "FrmClientes.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\FrmClientes.cs",
+              "DocumentMoniker": "C:\\Users\\AAROM\\Documents\\GitHub\\EFSRTII\\FrmClientes.cs",
               "RelativeDocumentMoniker": "FrmClientes.cs",
               "ToolTip": "C:\\Users\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\FrmClientes.cs [Dise\u00F1o]",
-              "RelativeToolTip": "FrmClientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\Luis Vega\\Downloads\\ProyectoFinal\\ProyectoFinal\\FrmClientes.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T22:13:12.249Z"
             }
