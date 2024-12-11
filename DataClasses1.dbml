@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ProyectoFinal" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=ProyectoFinal;Integrated Security=True;Trust Server Certificate=True" SettingsObjectName="ProyectoFinal.Properties.Settings" SettingsPropertyName="ProyectoFinalConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.CabeceraMovimiento" Member="CabeceraMovimiento">
+    <Type Name="CabeceraMovimiento">
+      <Column Name="CAB_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CAB_CLIENTE_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="CAB_FECHA" Type="System.DateTime" DbType="Date NOT NULL" CanBeNull="false" />
+      <Column Name="CAB_TIPO" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="CAB_MOTIVO" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PROV_ID" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="CabeceraMovimiento_DetalleMovimiento" Member="DetalleMovimiento" ThisKey="CAB_ID" OtherKey="CAB_ID" Type="DetalleMovimiento" />
+      <Association Name="Cliente_CabeceraMovimiento" Member="Cliente" ThisKey="CAB_CLIENTE_ID" OtherKey="CLIENTE_ID" Type="Cliente" IsForeignKey="true" />
+      <Association Name="Proveedor_CabeceraMovimiento" Member="Proveedor" ThisKey="PROV_ID" OtherKey="PROV_ID" Type="Proveedor" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Cliente" Member="Cliente">
+    <Type Name="Cliente">
+      <Column Name="CLIENTE_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="CLIENTE_NOMBRE" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="CLIENTE_CONTACTO" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Association Name="Cliente_CabeceraMovimiento" Member="CabeceraMovimiento" ThisKey="CLIENTE_ID" OtherKey="CAB_CLIENTE_ID" Type="CabeceraMovimiento" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DetalleMovimiento" Member="DetalleMovimiento">
+    <Type Name="DetalleMovimiento">
+      <Column Name="DET_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="DET_PROD_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="DET_CANTIDAD" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="DET_PRECIO_UNITARIO" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="DET_SUBTOTAL" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="CAB_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="CabeceraMovimiento_DetalleMovimiento" Member="CabeceraMovimiento" ThisKey="CAB_ID" OtherKey="CAB_ID" Type="CabeceraMovimiento" IsForeignKey="true" />
+      <Association Name="Producto_DetalleMovimiento" Member="Producto" ThisKey="DET_PROD_ID" OtherKey="PROD_ID" Type="Producto" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Producto" Member="Producto">
+    <Type Name="Producto">
+      <Column Name="PROD_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PROD_NOMBRE" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="PROD_DECRIPCION" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="PROD_PRECIO" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="PROD_CANTIDAD" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PROD_ESTAD" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="PROV_ID" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Association Name="Producto_DetalleMovimiento" Member="DetalleMovimiento" ThisKey="PROD_ID" OtherKey="DET_PROD_ID" Type="DetalleMovimiento" />
+      <Association Name="Proveedor_Producto" Member="Proveedor" ThisKey="PROV_ID" OtherKey="PROV_ID" Type="Proveedor" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Proveedor" Member="Proveedor">
+    <Type Name="Proveedor">
+      <Column Name="PROV_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PROV_NOMBRE" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="PROV_CONTACTO" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Association Name="Proveedor_CabeceraMovimiento" Member="CabeceraMovimiento" ThisKey="PROV_ID" OtherKey="PROV_ID" Type="CabeceraMovimiento" />
+      <Association Name="Proveedor_Producto" Member="Producto" ThisKey="PROV_ID" OtherKey="PROV_ID" Type="Producto" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Usuario" Member="Usuario">
+    <Type Name="Usuario">
+      <Column Name="USU_ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="USU_NOMBRE" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="USU_CONTRASEÑA" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

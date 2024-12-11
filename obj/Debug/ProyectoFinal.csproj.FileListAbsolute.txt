@@ -1,0 +1,29 @@
+C:\Users\AAROM\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\AAROM\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\AAROM\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\AAROM\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\AAROM\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Principal.resources
+C:\Users\AAROM\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\AAROM\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\AAROM\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\AAROM\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\AAROM\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\AAROM\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FrmMovimientos.resources
+C:\Users\AAROM\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FrmClientes.resources
+C:\Users\AAROM\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FrmProveedores.resources
+C:\Users\AAROM\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FrmProductos.resources
+C:\Users\Luis Vega\Downloads\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Luis Vega\Downloads\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Luis Vega\Downloads\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Luis Vega\Downloads\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.AssemblyReference.cache
+C:\Users\Luis Vega\Downloads\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FrmClientes.resources
+C:\Users\Luis Vega\Downloads\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FrmMovimientos.resources
+C:\Users\Luis Vega\Downloads\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FrmProductos.resources
+C:\Users\Luis Vega\Downloads\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FrmProveedores.resources
+C:\Users\Luis Vega\Downloads\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.LoginForm.resources
+C:\Users\Luis Vega\Downloads\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Principal.resources
+C:\Users\Luis Vega\Downloads\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Luis Vega\Downloads\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Luis Vega\Downloads\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Luis Vega\Downloads\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Luis Vega\Downloads\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
